@@ -4,6 +4,7 @@ TECNOLOGIAS UTILIZADAS:
 
 -JAVA
 -JSF
+-Arquitetura MVC
 -PostgreSQL
 -JPA
 -Hibernate
